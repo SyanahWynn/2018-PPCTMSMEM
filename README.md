@@ -1,1 +1,2 @@
-# The-posterior-parietal-cortex-and-subjectively-perceived-confidence-during-memory-retrieval
+# The posterior parietal cortex and subjectively perceived confidence during memory retrieval
+Here you will find the experimental design and analysis script used in the aformentioned published paper. The scripts were not created to be widely used by others, so may not be user-friendly. The scripts were altered by deleting redundancy and remove participant-specific steps. In this way, readability and generalizability has increased.
